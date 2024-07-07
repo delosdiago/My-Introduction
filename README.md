@@ -13,6 +13,8 @@ Excited to collaborate on open source projects, especially those focusing on har
 
 📬 Contact Me:
 Feel free to reach out via email at delos1316@gmail.com or drop a message on my LinkedIn profile www.linkedin.com/in/devansh-narwal
+
+Check out my HDL Bits at https://hdlbits.01xz.net/wiki/Special:VlgStats/C8A849D771240BB9
 <!---
 delosdiago/delosdiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
